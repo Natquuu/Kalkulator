@@ -1,0 +1,10 @@
+﻿  MyForm.cpp
+c:\users\admin\desktop\xxx\nauka\jpwp\kalkulator\kalkulator\Calculator.h(4): warning C4570: 'Calculator': is not explicitly declared as abstract but has abstract functions
+  c:\users\admin\desktop\xxx\nauka\jpwp\kalkulator\kalkulator\Calculator.h(4): note: 'void Calculator::operation(void)': is abstract
+  c:\users\admin\desktop\xxx\nauka\jpwp\kalkulator\kalkulator\Calculator.h(7): note: see declaration of 'Calculator::operation'
+  c:\users\admin\desktop\xxx\nauka\jpwp\kalkulator\kalkulator\Calculator.h(4): note: 'void Calculator::set_a(double)': is abstract
+  c:\users\admin\desktop\xxx\nauka\jpwp\kalkulator\kalkulator\Calculator.h(8): note: see declaration of 'Calculator::set_a'
+MyForm.cpp(7): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Addition.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Kalkulator.vcxproj -> C:\Users\admin\Desktop\XXX\NAUKA\JPWP\Kalkulator\Debug\Kalkulator.exe
+  Kalkulator.vcxproj -> C:\Users\admin\Desktop\XXX\NAUKA\JPWP\Kalkulator\Debug\Kalkulator.pdb (Partial PDB)
